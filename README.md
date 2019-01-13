@@ -1,4 +1,2 @@
 # object-detection
-this is an object detection based on OpenCV's orb function
-Note:
-1)I have used OpenCV ORB just for practice
+This code generates fake copy of handwritten digits from random noise
